@@ -1,4 +1,4 @@
-This project implements Conway's Game of Life using Java. The Game of Life simulates the evolution of a grid of cells over time based on the following rules, demonstrating how simple rules can create complex behaviors.
+This project is a simple demonstration of Conway's Game of Life in terminal using Java. The Game of Life simulates the evolution of a grid of cells over time based on the following rules, demonstrating how simple rules can create complex behaviors.
 
 ## Rules
 
